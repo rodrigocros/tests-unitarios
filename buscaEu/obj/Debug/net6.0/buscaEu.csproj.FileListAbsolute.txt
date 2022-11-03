@@ -1,0 +1,15 @@
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/bin/Debug/net6.0/buscaEu
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/bin/Debug/net6.0/buscaEu.deps.json
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/bin/Debug/net6.0/buscaEu.runtimeconfig.json
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/bin/Debug/net6.0/buscaEu.dll
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/bin/Debug/net6.0/buscaEu.pdb
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/obj/Debug/net6.0/buscaEu.csproj.AssemblyReference.cache
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/obj/Debug/net6.0/buscaEu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/obj/Debug/net6.0/buscaEu.AssemblyInfoInputs.cache
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/obj/Debug/net6.0/buscaEu.AssemblyInfo.cs
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/obj/Debug/net6.0/buscaEu.csproj.CoreCompileInputs.cache
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/obj/Debug/net6.0/buscaEu.dll
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/obj/Debug/net6.0/refint/buscaEu.dll
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/obj/Debug/net6.0/buscaEu.pdb
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/obj/Debug/net6.0/buscaEu.genruntimeconfig.cache
+/Users/rodrigocostadarosa/Desktop/TrabTestes/buscaEu/obj/Debug/net6.0/ref/buscaEu.dll
