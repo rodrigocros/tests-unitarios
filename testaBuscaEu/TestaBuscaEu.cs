@@ -25,5 +25,6 @@ public class TestaBuscaEU
     public void Test1()
     {
         var passageiroEscolhido = buscaEu.buscaPassageiro(Passageiros);
+        Assert.IsNotNull(passageiroEscolhido);
     }
 }
